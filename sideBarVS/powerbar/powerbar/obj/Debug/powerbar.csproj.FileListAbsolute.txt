@@ -1,0 +1,10 @@
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\bin\Debug\powerbar.exe.config
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\bin\Debug\powerbar.exe
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\bin\Debug\powerbar.pdb
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.csprojResolveAssemblyReference.cache
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.Form1.resources
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.Properties.Resources.resources
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.csproj.GenerateResource.Cache
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.exe
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.pdb
+G:\SCUOLA\Openday\sideBarVS\powerbar\powerbar\obj\Debug\powerbar.csproj.CoreCompileInputs.cache
